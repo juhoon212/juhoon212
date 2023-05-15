@@ -8,7 +8,7 @@
 
 -FrontEnd
 
-<img src="https://img.shields.io/badge/html-4121E2?style=flat-square&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-4121E2?style=flat-square&logo=html5&logoColor=white"/>
 
 
 
