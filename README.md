@@ -12,7 +12,8 @@
 
 - Database
 
-<img src="https://img.shields.io/badge/Oracle-D01F31?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-D01F31?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-135479?style=flat-square&logo=mysql&logoColor=white"/> 
+
 
 
 
