@@ -20,7 +20,7 @@
 
 - Now Studying...
 
-<img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-379B23?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-1C1970?style=flat-square&logo=typescript&logoColor=white"/>
 
 
 
