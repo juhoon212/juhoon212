@@ -4,7 +4,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Everyday&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=&fontSize=90" />
 
  🖥️Wanna be BackEnd Developer
  ***
