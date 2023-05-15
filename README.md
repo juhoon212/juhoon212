@@ -1,7 +1,7 @@
 
 
 
-
+<div align="center">
 ### Tomorrow will be devloped... 
 #### 🖥️BackEnd Developer
 
@@ -32,6 +32,8 @@
 - Want_to_study
 
  <img src="https://img.shields.io/badge/TypeScript-1C1970?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3CE5DF?style=flat-square&logo=python&logoColor=white"/>
+
+</div>
 
 
 
