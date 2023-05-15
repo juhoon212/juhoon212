@@ -18,6 +18,9 @@
 
 <img src="https://img.shields.io/badge/Git-985215?style=flat-square&logo=git&logoColor=white"/>
 
+- Now Studying...
+
+<img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/>
 
 
 
