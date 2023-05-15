@@ -34,6 +34,8 @@
  <img src="https://img.shields.io/badge/TypeScript-1C1970?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3CE5DF?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-752B11?style=flat-square&logo=jpa&logoColor=white"/>
 
 ***Interested in learning development information***
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhoon212&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 
