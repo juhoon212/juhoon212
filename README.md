@@ -2,11 +2,11 @@
 
 
 <div align="center">
-#### 🖥️BackEnd Developer
+🖥️BackEnd Developer
 
 ***
 
-##### 🧺Stack
+🧺Stack
 
 🌅BackEnd
 
