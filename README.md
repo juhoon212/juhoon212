@@ -20,7 +20,7 @@
 
 🌎VCS
 
-<img src="https://img.shields.io/badge/Git-985215?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-985215?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-151414?style=flat-square&logo=github&logoColor=white"/>
 
 🔎Now Studying...
 
