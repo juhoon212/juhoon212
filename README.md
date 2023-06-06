@@ -15,7 +15,7 @@
 
 🌇FrontEnd
 
-<img src="https://img.shields.io/badge/Html-D521E2?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-4121E2?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-CFDB26?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/VsCode-0D7F73?style=flat-square&logo=vscode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Html-D521E2?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-4121E2?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-CFDB26?style=flat-square&logo=javascript&logoColor=white"/> 
 
 🌌Database
 
