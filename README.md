@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=&fontSize=90" />
 
- 🖥️Wanna be the Greatest Developer
+ 🖥️ Wanna be the Greatest Developer
  ***
 
 🌅BackEnd
