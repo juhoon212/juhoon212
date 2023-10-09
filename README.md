@@ -12,7 +12,9 @@
 🌅BackEnd
 
 <img src="https://img.shields.io/badge/Java-D4A934?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/Tomcat-4B290A?style=flat-square&logo=apachetomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYBATIS-752B11?style=flat-square&logo=mybatis&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-752B11?style=flat-square&logo=jpa&logoColor=white"/>
+
  
 🌇FrontEnd
 
@@ -27,15 +29,19 @@
 
 <img src="https://img.shields.io/badge/Git-985215?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-151414?style=flat-square&logo=github&logoColor=white"/>
 
+🖥Server
+
+<img src="https://img.shields.io/badge/Apache Tomcat-CC9900?style=flat-square&logo=apahetomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS EC2-FF3366?style=flat-square&logo=aws&logoColor=white"/>
+
+
+
 🔎Now Studying...
 
 <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JPA-752B11?style=flat-square&logo=jpa&logoColor=white"/>
 
-🪟Want_to_study
 
- <img src="https://img.shields.io/badge/TypeScript-1C1970?style=flat-square&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3CE5DF?style=flat-square&logo=python&logoColor=white"/>
 
 ***Interested in learning development information***
  
