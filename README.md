@@ -12,13 +12,11 @@
 🌅BackEnd
 
 <img src="https://img.shields.io/badge/Java-D4A934?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYBATIS-336666?style=flat-square&logo=mybatis&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-0033CC?style=flat-square&logo=jpa&logoColor=white"/>
 
  
 🌇FrontEnd
 
-<img src="https://img.shields.io/badge/Html-D521E2?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-4121E2?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-CFDB26?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-CFDB26?style=flat-square&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-336FBF?style=flat-square&logo=react&logoColor=white"/>
 
 🌌Database
@@ -32,14 +30,13 @@
 🖥Server
 
 <img src="https://img.shields.io/badge/Apache Tomcat-CC9900?style=flat-square&logo=apahetomcat&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS EC2-FF3366?style=flat-square&logo=aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-330066?style=flat-square&logo=linux&logoColor=white"/>
 
 
 
 🔎Now Studying...
 
-<img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JPA-752B11?style=flat-square&logo=jpa&logoColor=white"/>
 
 
