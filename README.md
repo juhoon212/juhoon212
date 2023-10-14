@@ -12,7 +12,6 @@
 🌅BackEnd
 
 <img src="https://img.shields.io/badge/Java-D4A934?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
  
 🌇FrontEnd
