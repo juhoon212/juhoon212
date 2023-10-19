@@ -30,7 +30,6 @@
 🖥Server
 
 <img src="https://img.shields.io/badge/Apache Tomcat-CC9900?style=flat-square&logo=apahetomcat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-330066?style=flat-square&logo=linux&logoColor=white"/>
 
 
 
