@@ -11,7 +11,7 @@
 
 🌅BackEnd
 
-<img src="https://img.shields.io/badge/Java-D4A934?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-D4A934?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
  
 🌇FrontEnd
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/JavaScript-CFDB26?style=flat-square&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-336FBF?style=flat-square&logo=react&logoColor=white"/>
 
-🌌Database
+🌌DB
 
 <img src="https://img.shields.io/badge/Oracle-D01F31?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-135479?style=flat-square&logo=mysql&logoColor=white"/> 
 
@@ -33,11 +33,9 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/>
 
 
+🔎CI/CD
 
-🔎Now Studying...
-
- <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JPA-752B11?style=flat-square&logo=jpa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> 
 
 
 
