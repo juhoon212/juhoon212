@@ -30,7 +30,7 @@
 🖥Server
 
 <img src="https://img.shields.io/badge/Apache Tomcat-CC9900?style=flat-square&logo=apahetomcat&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=aws&logoColor=white"/>
 
 
 🔎CI/CD
