@@ -29,7 +29,7 @@
 
 🖥Server
 
-<img src="https://img.shields.io/badge/Apache Tomcat-CC9900?style=flat-square&logo=apahetomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apahe&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=aws&logoColor=white"/>
 
 
