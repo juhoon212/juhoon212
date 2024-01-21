@@ -25,7 +25,10 @@
 
 🌎VCS
 
-<img src="https://img.shields.io/badge/Git-985215?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-151414?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-985215?style=flat-square&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Github-151414?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+
 
 🖥Server
 
@@ -35,7 +38,6 @@
 
 🔎CI/CD
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
 
 
