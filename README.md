@@ -33,7 +33,7 @@
 
 🖥Server
 
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apahe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginix-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=aws&logoColor=white"/>
 
 
