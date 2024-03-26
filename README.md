@@ -17,7 +17,6 @@
 🌇FrontEnd
 
 <img src="https://img.shields.io/badge/JavaScript-CFDB26?style=flat-square&logo=javascript&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-336FBF?style=flat-square&logo=react&logoColor=white"/>
 
 🌌DB
 
