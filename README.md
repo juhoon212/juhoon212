@@ -45,6 +45,7 @@
 📚Studying...
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++ -00599C?style=flat-square&logo=c++&logoColor=white"/>
 
 ***Interested in learning development information***
  
