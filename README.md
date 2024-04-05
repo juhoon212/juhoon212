@@ -45,9 +45,8 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++ -00599C?style=flat-square&logo=c++&logoColor=white"/>
 
-***Interested in learning development information***
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhoon212&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=juhoon212&theme=github-dark-dimmed&hide_border=true&border_radius=30&locale=ko)](https://git.io/streak-stats)
  
  
 </div>
