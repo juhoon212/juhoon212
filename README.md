@@ -44,7 +44,7 @@
 📚Studying...
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++ -00599C?style=flat-square&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
 
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=juhoon212&theme=github-dark-dimmed&hide_border=true&border_radius=30&locale=ko)](https://git.io/streak-stats)
