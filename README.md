@@ -29,13 +29,6 @@
 <img src="https://img.shields.io/badge/Github-151414?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 
-
-🖥Server
-
-<img src="https://img.shields.io/badge/Nginix-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=aws&logoColor=white"/>
-
-
 🔎CI/CD
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
