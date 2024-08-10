@@ -25,17 +25,21 @@
  <img src="https://img.shields.io/badge/MySQL-135479?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-
-
- ### <p font-size="10px"><b></b></p>
-
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+ 
+ ### <p font-size="10px"><b></b></p>
+
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Github-151414?style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+ 
+ 
+ 
 
  ### <p font-size="10px"><b></b></p>
 
- <img src="https://img.shields.io/badge/Github-151414?style=for-the-badge&logo=github&logoColor=white"/>
- <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 
 ### <p font-size="10px"><b>🥉 STUDYING </b></p>
 
