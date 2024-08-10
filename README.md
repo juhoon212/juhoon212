@@ -1,43 +1,50 @@
 
 
 
+
+
+
 <div align="center">
 
-
-
- 🖥️ BE Developer
+ # ✨BE Developer
  ***
+<div style="display:flex; flex-direction:row; align-items:center; justify-items:center">
 
-🌅BackEnd
+ ### <p font-size="40px"><b>🥇 TECH STACK</b></p>
 
-<img src="https://img.shields.io/badge/Java-D4A934?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-379B23?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring-379B23?style=for-the-badge&logo=spring&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=for-the-badge&logo=springboot&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
 
+ ### <p font-size="10px"><b></b></p>
  
-🌇FrontEnd
+ <img src="https://img.shields.io/badge/MySQL-135479?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-CFDB26?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
-🌌DB
+ ### <p font-size="10px"><b></b></p>
 
-<img src="https://img.shields.io/badge/MySQL-135479?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-🌎VCS
+ ### <p font-size="10px"><b></b></p>
 
-<img src="https://img.shields.io/badge/Github-151414?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Github-151414?style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 
-🔎CI/CD
+### <p font-size="10px"><b>🥉 STUDYING </b></p>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-🐶Messenger
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+
+### <p font-size="10px"><b></b></p>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=juhoon212&theme=github-dark-dimmed&hide_border=true&border_radius=30&locale=ko)](https://git.io/streak-stats)
  
