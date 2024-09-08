@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/MySQL-135479?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white"/>
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
  
