@@ -13,6 +13,7 @@
  ## <p font-size="40px"><b>🥇 TECH STACK</b></p>
 
  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-379B23?style=for-the-badge&logo=spring&logoColor=white"/> 
  <img src="https://img.shields.io/badge/SpringBoot-17BF7C?style=for-the-badge&logo=springboot&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
@@ -26,6 +27,8 @@
  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white"/>
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+ 
  
  ### <p font-size="10px"><b></b></p>
 
@@ -37,14 +40,10 @@
  
  
 
- ### <p font-size="10px"><b></b></p>
 
 
-## <p font-size="10px"><b>🥉 STUDYING </b></p>
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 
 
 
