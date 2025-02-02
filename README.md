@@ -6,11 +6,11 @@
 
 <div align="center">
 
- # ✨BE Developer
+ # “Talk is cheap. Show me the code.”
  ***
 <div style="display:flex; flex-direction:row; align-items:center; justify-items:center">
 
- ## <p font-size="40px"><b>🥇 TECH STACK</b></p>
+ ## <p font-size="40px"><b> 📖 TECH STACK</b></p>
 
  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
