@@ -22,11 +22,6 @@
 🌙 Night                  461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 ```
 <!--END_SECTION:waka-->
-### <p font-size="10px"><b></b></p>
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=juhoon212&theme=github-dark-dimmed&hide_border=true&border_radius=30&locale=ko)](https://git.io/streak-stats)
- 
- 
 </div>
 
 
