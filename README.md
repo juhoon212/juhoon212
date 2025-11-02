@@ -1,6 +1,8 @@
 <div align="center">
 
-#  💬 “Talk is cheap. Show me the code.”  
+<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="120" />
+
+#  “Talk is cheap. Show me the code.”  
 #### —*Linus Torvalds*
 
 ### *I'm currently working with...*
