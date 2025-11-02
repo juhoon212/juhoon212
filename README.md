@@ -13,22 +13,6 @@
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 192.6 kB Used in GitHub's Storage 
- > 
-> 🏆 703 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 53 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -37,55 +21,6 @@
 🌃 Evening                1566 commits        █████████░░░░░░░░░░░░░░░░   35.69 % 
 🌙 Night                  461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 ```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   763 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Tuesday                  609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Wednesday                611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 837 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Friday                   738 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Saturday                 331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     57 repos            ██████████████████░░░░░░░   72.15 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-HCL                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/juhoon212/juhoon212/main/assets/bar_graph.png)
-
-
- Last Updated on 02/11/2025 10:52:54 UTC
 <!--END_SECTION:waka-->
 ### <p font-size="10px"><b></b></p>
 
