@@ -24,5 +24,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
-          SYMBOL_VERSION: "False"
+          SYMBOL_VERSION: "0"
           DEBUG_LOGGING: "False"
