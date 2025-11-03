@@ -17,14 +17,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=juhoon212&theme=onedark&row=1&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**Timeline**
 
-```text
-🌞 Morning                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-🌆 Daytime                1617 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌃 Evening                1566 commits        █████████░░░░░░░░░░░░░░░░   35.69 % 
-🌙 Night                  461 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-```
+![Lines of Code chart](https://raw.githubusercontent.com/juhoon212/juhoon212/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/11/2025 18:49:35 UTC
 <!--END_SECTION:waka-->
 </details>
 </div>
