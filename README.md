@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="120" />
 
 #  “Talk is cheap. Show me the code.”  
-#### —*Linus Torvalds*
+#### *Linus Torvalds*
 
 ### *I'm currently working with...*
 [![My Skills](https://skillicons.dev/icons?i=java,spring,redis,kafka,postgres,docker,kubernetes,aws,bitbucket,apple,linux&theme=dark)](https://skillicons.dev)
