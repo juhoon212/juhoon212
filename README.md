@@ -17,6 +17,16 @@
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=juhoon212&theme=onedark&row=1&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                762 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+🌆 Daytime                1636 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌃 Evening                1989 commits        ██████████░░░░░░░░░░░░░░░   41.02 % 
+🌙 Night                  462 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+```
+
+
 
 <!--END_SECTION:waka-->
 </details>
